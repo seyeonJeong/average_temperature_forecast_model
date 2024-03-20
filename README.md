@@ -1,5 +1,10 @@
 # average_temperature_forecast_model
 
+### 사용 데이터셋
+
+---
+
+기상청 자료 개방 포털 - https://data.kma.go.kr/data/grnd/selectAsosRltmList.do?pgmNo=36
 
 ### Introduction
 
